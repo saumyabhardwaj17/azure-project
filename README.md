@@ -1,4 +1,4 @@
-# Web Knowledge Assistant
+# Azure Assistant
 
 An engaging virtual assistant capable of answering arbitrary open-ended questions
 
